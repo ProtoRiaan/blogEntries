@@ -1,0 +1,19 @@
+
+Riaan Schuld 2023-12-02
+Initial Commit.
+
+Time sure flies when you are having fun. Or working hard. 
+
+So many things have changed since I started building this flask blog project to further my IT career, I can hardly keep track of all of it. I decided to make this hurried blog entry in the attempt to start a weekly posting schedule habit. I have so much to share but so little time to write it all up.
+
+I started this project while still employed as a Help Desk Technician. I has been about 8 months since I started it as a means of building up my python coding skills. I started it right after passing my Cisco DevNet associates certification exam. 
+I applied for a few positions and ended up accepting a sys-admin NOC position with my current helpdesk employer. I was really looking for a network engineering position but this position was recruiting and allowed me to switch from remote to on site work which was a big goal for me. I was also starting to feel the drag of resetting passwords for customers all day so this was an exciting new change. The NOC position was a great experience. They needed someone to work on a web application along with the standard monitoring that a NOC agent would be responsible for. Luckily the web application was using flask in the back end and svelte (a javascript framework) in the front end. It was also in the very early stages of development with very loosely defined outcomes. The dev team was basically me and one other NOC agent so this made it fairly simple to get work done. 
+
+I got a lot of work done for them.
+
+I studied some javascript and azure app integration and made a great deal of progress for the team in a very short amount of time. Hopefully I can get some sanitized, anonymized samples of my code into github and shared here, we will have to see. 
+Just as I was starting to get into a good productive pattern with the NOC team, an opportunity to join my company’s Data Center Operations team opened. In about 6 months since leaving the helpdesk I have been shoehorned into a position to support my organization with Data Center Automation, Development, Operations and Networking. There are so many things to work and learn in this new role, I feel like a child in a toy store. Exciting times indeed. 
+
+The changes in my work life have been significant and very time and energy consuming over the past months. Still, significant progress has been made in my home lab and study. I passed the CompTIA Security + exam and I am well into preparing for the CCNP Security Core Certification Exam. I have been working on my linux admin, docker,  web admin and CI/CD skills in my lab along with all the fun experimenting with networking (segmentation, monitoring, access control, Snort(IPS)). My Kubernetes cluster has been started. This will eventually be an OKD cluster that will host this project and blog website behind a reverse proxy. It will hopefully help me lab out and model the Kubernetes layer and how it interacts with a data center network.
+
+I could keep going but really trying to keep this brief. Thanks for stopping by!
